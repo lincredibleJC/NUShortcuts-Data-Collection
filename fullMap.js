@@ -15,7 +15,7 @@ var finalMap = {
         "stairsDirection": 1,
         "shelterRating": 0,
         "shelterMultiplier": 0,
-        "directions": "Insert directions",
+        "directions": "It's the Auditorium on the left",
         "imagelinks": [
           "http://pixup.us/upload/small/2013/06/04/51ad91814dd33.jpg"
         ]
@@ -27,7 +27,7 @@ var finalMap = {
         "stairsDirection": 1,
         "shelterRating": 0,
         "shelterMultiplier": 0,
-        "directions": "Insert directions",
+        "directions": "It's the auditorium on the right",
         "imagelinks": [
           "http://pixup.us/upload/small/2013/06/04/51ad91814dd33.jpg"
         ]
@@ -39,7 +39,7 @@ var finalMap = {
         "stairsDirection": 1,
         "shelterRating": 0,
         "shelterMultiplier": 0,
-        "directions": "Insert directions",
+        "directions": "Walk to the open area in between the two halves of EA",
         "imagelinks": [
           "http://pixup.us/upload/small/2013/06/04/51ad91814dd33.jpg"
         ]
@@ -51,7 +51,7 @@ var finalMap = {
         "stairsDirection": 1,
         "shelterRating": 0,
         "shelterMultiplier": 0,
-        "directions": "Insert directions",
+        "directions": "Walk through the glass door right of LT7A",
         "imagelinks": [
           "http://pixup.us/upload/small/2013/06/04/51ad91814dd33.jpg"
         ]
@@ -63,7 +63,7 @@ var finalMap = {
         "stairsDirection": 1,
         "shelterRating": 0,
         "shelterMultiplier": 0,
-        "directions": "Insert directions",
+        "directions": "Take the lift up to level 3 and turn left",
         "imagelinks": [
           "http://pixup.us/upload/small/2013/06/04/51ad91814dd33.jpg"
         ]
@@ -75,7 +75,7 @@ var finalMap = {
         "stairsDirection": 0,
         "shelterRating": 0,
         "shelterMultiplier": 0,
-        "directions": "Insert directions",
+        "directions": "Take the lift beside Engineering Auditorium up and turn right after exiting",
         "imagelinks": [
           "http://pixup.us/upload/small/2013/06/04/51ad91814dd33.jpg"
         ]
