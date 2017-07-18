@@ -7073,6 +7073,13 @@ function deleteRooms() {
   console.log(JSON.stringify(fullMap));
 }
 
+function printVertNames() {
+  var arr = [];
+  for (var i = 0; i < geojson.features.length; i++) {
+    arr.push(geojson.features[i].properties.locationName);
+  }
+  console.log(JSON.stringify(arr));
+}
 
 //do in dijkstra//////////////////////////////////////////////////////////////////
 //then  put back in geojson
