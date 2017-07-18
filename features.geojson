@@ -6,7 +6,9 @@
         "locationName": "Science Library",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Science Library"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -25,7 +27,9 @@
         "locationName": "Residential College 4",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Residential College 4"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -44,7 +48,12 @@
         "locationName": "S7",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Centre for Ion Beam Applications",
+          "Department of Chemistry (S7)",
+          "Department of Physics (S7)",
+          "S7"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -158,7 +167,10 @@
         "locationName": "E2",
         "locationType": "building",
         "faculty": "Engineering",
-        "rooms": [],
+        "rooms": [
+          "E2",
+          "A.R.T. FoodHouse"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -215,7 +227,10 @@
         "locationName": "AS5",
         "locationType": "building",
         "faculty": "FASS",
-        "rooms": [],
+        "rooms": [
+          "AS5",
+          "Department of English Language & Literature"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -310,7 +325,14 @@
         "locationName": "E4",
         "locationType": "building",
         "faculty": "Engineering",
-        "rooms": [],
+        "rooms": [
+          "Centre for Design Technology",
+          "Centre for Microwave and Radio Frequency",
+          "Department of Electrical & Computer Engineering",
+          "E4",
+          "Incubation Centre (Faculty of Engineering)",
+          "AXS (E4)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -348,7 +370,13 @@
         "locationName": "MD4A",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Department of Biochemistry (Annexe)",
+          "MD4A",
+          "National Malaria Reference Centre",
+          "National Hepatitis Quality Assurance Centre",
+          "Research & Training in Immunology"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -367,7 +395,15 @@
         "locationName": "Ventus",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Office of Campus Amenities",
+          "Office of Estate Development",
+          "Office of Environmental Sustainability",
+          "Office of Facilities Management",
+          "Office of Safety, Health & Environment",
+          "Office of the Vice President (Campus Infrastructure)",
+          "Ventus"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -424,7 +460,15 @@
         "locationName": "E1A",
         "locationType": "building",
         "faculty": "Engineering",
-        "rooms": [],
+        "rooms": [
+          "Centre for Construction Materials and Technology",
+          "Centre for Offshore Research & Engineering",
+          "Centre for Transportation Research",
+          "Department of Civil Engineering",
+          "Department of Industrial & Systems Engineering",
+          "E1A",
+          "Engineering Design and Innovation Centre"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -443,7 +487,10 @@
         "locationName": "S12",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Centre for Superconducting and Magnetic Materials",
+          "S12"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -462,7 +509,9 @@
         "locationName": "E2A",
         "locationType": "building",
         "faculty": "Engineering",
-        "rooms": [],
+        "rooms": [
+          "Des The Place"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -481,7 +530,18 @@
         "locationName": "I3",
         "locationType": "building",
         "faculty": "NUS Enterprise",
-        "rooms": [],
+        "rooms": [
+          "Incubation Centre (School of Computing)",
+          "Institute of Real Estate Studies (IRES)",
+          "Interactive and Digital Media Institute (IDMI)",
+          "NUS Enterprise",
+          "NUS Entrepreneurship Centre",
+          "NUS Industry Liaison Office",
+          "NUS Overseas Colleges",
+          "NUS Technology Holdings",
+          "Risk Management Institute (RMI)",
+          "The Logistics Institute - Asia Pacific (TLI - Asia Pacific)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -538,7 +598,15 @@
         "locationName": "AS7",
         "locationType": "building",
         "faculty": "FASS",
-        "rooms": [],
+        "rooms": [
+          "AS7",
+          "Department of Chinese Studies",
+          "Department of Malay Studies",
+          "Division of Research & Graduate Studies (Faculty of Arts & Social Sciences)",
+          "Faculty of Arts Social Sciences (Dean's Office)",
+          "Office of Programmes (Faculty of Arts & Social Sciences)",
+          "South Asian Studies Programme"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -576,7 +644,13 @@
         "locationName": "S3",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Department of Biological Sciences (S3)",
+          "Department of Chemistry (S3)",
+          "Department of Pharmacy (S3)",
+          "Protein and Proteomics Centre",
+          "S3"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -633,7 +707,13 @@
         "locationName": "COM 2",
         "locationType": "building",
         "faculty": "Computing",
-        "rooms": [],
+        "rooms": [
+          "Centre for e-Business",
+          "COM2",
+          "Department of Information Systems",
+          "Information Technology Unit (School of Computing)",
+          "Security Post (School of Computing)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -652,7 +732,11 @@
         "locationName": "MD5",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Division of Graduate Medical Studies",
+          "Electron Microscopy Unit",
+          "MD5"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -671,7 +755,10 @@
         "locationName": "MD10",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Department of Anatomy",
+          "MD10"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -709,7 +796,11 @@
         "locationName": "S11",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Department of Physics (S11)",
+          "Department of Physics (S12)",
+          "S11"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -728,7 +819,10 @@
         "locationName": "MD7",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Department of Biochemistry",
+          "MD7"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -747,7 +841,13 @@
         "locationName": "Central Library",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Central Library",
+          "DBS / POSBank ATMs (Forum L1, Near NUS Co-op)",
+          "UOB ATM (Forum L1, Near NUS Co-op)",
+          "AXS (Forum L1, Near NUS Co-op)",
+          "Coop - Central Library Forum (Books and Sundries)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -804,7 +904,11 @@
         "locationName": "CREATE",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Create",
+          "Hwang's Korean Restaurant",
+          "Sapore Italiano (University Town)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -823,7 +927,11 @@
         "locationName": "MD1",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Animal Holding Unit",
+          "Lecture Theatre 37",
+          "MD1"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -842,7 +950,23 @@
         "locationName": "EA",
         "locationType": "building",
         "faculty": "Engineering",
-        "rooms": [],
+        "rooms": [
+          "Bachelor of Technology Programme",
+          "Centre for Advanced Computations in Engineering Science (ACES)",
+          "Centre for Intelligent Control",
+          "Centre for Intelligent Products and Manufacturing Systems",
+          "Department of Mechanical Engineering",
+          "Division of Environmental Science & Engineering",
+          "EA",
+          "Engineering",
+          "Faculty of Engineering (Dean's Office)",
+          "Good News Cafe",
+          "Graduate Studies Office (Faculty of Engineering)",
+          "iFood",
+          "Mechatronics Programme",
+          "Professional Activities Centre (Faculty of Engineering)",
+          "Centre for Healthcare Innovation and Medical Engineering"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -861,7 +985,11 @@
         "locationName": "Frontier",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Frontier Canteen",
+          "OCBC ATM (LT27, Near Frontier Canteen)",
+          "AXS (LT27, Near Frontier Canteen)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -918,7 +1046,12 @@
         "locationName": "AS1",
         "locationType": "building",
         "faculty": "FASS",
-        "rooms": [],
+        "rooms": [
+          "AS1",
+          "Department of History",
+          "Department of Political Science",
+          "Department of Sociology"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -956,7 +1089,15 @@
         "locationName": "Shaw Foundation Alumni House",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Development Office",
+          "International Relations Office",
+          "Late Plate",
+          "Office of Alumni Relations",
+          "Shaw Foundation Alumni House",
+          "The University Club",
+          "Waa Cow"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -975,7 +1116,12 @@
         "locationName": "AS4",
         "locationType": "building",
         "faculty": "FASS",
-        "rooms": [],
+        "rooms": [
+          "AS4",
+          "Centre for Language Studies",
+          "Department of Japanese Studies",
+          "Department of Psychology"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -994,7 +1140,10 @@
         "locationName": "S1",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Department of Biological Sciences (S1)",
+          "S1"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1032,7 +1181,14 @@
         "locationName": "Center For Life Sciences",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Bioinformatics Centre",
+          "Cancer Science Institute of Singapore",
+          "Life Sciences Institute (LSI)",
+          "NUS Graduate School for Integrative Sciences & Engineering",
+          "Office of Life Sciences",
+          "Singapore Institute for Neurotechnology"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1051,7 +1207,12 @@
         "locationName": "E5",
         "locationType": "building",
         "faculty": "Engineering",
-        "rooms": [],
+        "rooms": [
+          "Centre for Advanced Chemical Engineering",
+          "Department of Chemical & Biomolecular Engineering",
+          "E5",
+          "Security Post (Engineering Block)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1070,7 +1231,10 @@
         "locationName": "S5",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Department of Chemistry (S5)",
+          "S5"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1108,7 +1272,11 @@
         "locationName": "S4",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Department of Pharmacy (S4)",
+          "GEA-NUS Pharmaceutical Processing Research Laboratory",
+          "S4"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1127,7 +1295,9 @@
         "locationName": "S9A",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "S9A"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1165,7 +1335,10 @@
         "locationName": "S2",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Department of Biological Sciences (S2)",
+          "S2"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1184,7 +1357,9 @@
         "locationName": "Temasek Hall",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Temasek Hall"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1222,7 +1397,10 @@
         "locationName": "S4A",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Department of Pharmacy (Annexe)",
+          "S4A"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1260,7 +1438,16 @@
         "locationName": "Yusof Ishak House",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "DBS / POSBank ATMs (Yusof Ishak House)",
+          "DBS / POSBank Cash Deposit Machine (Yusof Ishak House)",
+          "NUSSU Secretariat (Students' Union)",
+          "Office of Student Affairs",
+          "Starbucks (Yusof Ishak House)",
+          "Student Service Centre",
+          "OCBC ATM (Yusoff Ishak House)",
+          "Centre for Future-ready Graduates"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1279,7 +1466,10 @@
         "locationName": "Central Library Annexe",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Centre for Development of Teaching & Learning",
+          "Centre for Instructional Technology (Central Library Annexe)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1317,7 +1507,9 @@
         "locationName": "S10",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "S10"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1374,7 +1566,13 @@
         "locationName": "AS2",
         "locationType": "building",
         "faculty": "FASS",
-        "rooms": [],
+        "rooms": [
+          "AS2",
+          "Department of Economics",
+          "Department of Geography",
+          "Humble Origins",
+          "Singapore Centre for Applied and Policy Economics (SCAPE)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1393,7 +1591,20 @@
         "locationName": "SDE1",
         "locationType": "building",
         "faculty": "School of Design and Environment ",
-        "rooms": [],
+        "rooms": [
+          "Centre for Real Estate Studies",
+          "Centre for Total Building Performance",
+          "Department of Architecture",
+          "Department of Building",
+          "Department of Real Estate",
+          "Design & Environment",
+          "Division of Research & Graduate Studies (School of Design & Environment)",
+          "Energy Sustainability Unit",
+          "Information Resource Centre (School of Design & Environment)",
+          "School of Design & Environment (Dean's Office)",
+          "SDE1",
+          "Coop - SDE (Block SDE1)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1431,7 +1642,9 @@
         "locationName": "Chua Thian Poh Hall",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Chua Thian Poh Hall"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1469,7 +1682,17 @@
         "locationName": "MD3",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Centre for Environmental and Occupational Health Research",
+          "Centre for Molecular Epidemiology",
+          "Department of Epidemiology & Public Health",
+          "MD3",
+          "Occupational Health",
+          "Para-clinical Laboratory",
+          "Pre-clinical Laboratory",
+          "Public Health",
+          "WHO Collaborating Centre for Occupational Health"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1488,7 +1711,9 @@
         "locationName": "Medical Library",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Medical Library"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1526,7 +1751,9 @@
         "locationName": "Chinese LIbrary",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Chinese Library"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1564,7 +1791,10 @@
         "locationName": "Yong Siew Toh Conservatory of Music",
         "locationType": "building",
         "faculty": "Yong Siew Toh Conservatory of Music",
-        "rooms": [],
+        "rooms": [
+          "Music",
+          "Yong Siew Toh Conservatory of Music"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1583,7 +1813,14 @@
         "locationName": "Faculty of Dentistry",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Dentistry",
+          "Department of Oral & Maxillofacial Surgery",
+          "Department of Preventive Dentistry",
+          "Department of Restorative Dentistry",
+          "Division of Graduate Dental Studies",
+          "Faculty of Dentistry (Dean's Office)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1640,7 +1877,12 @@
         "locationName": "S14",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Centre for Industrial Mathematics",
+          "Department of Mathematics (S14)",
+          "S14",
+          "Centre for Advanced 2D Materials"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1659,7 +1901,18 @@
         "locationName": "AS6",
         "locationType": "building",
         "faculty": "FASS",
-        "rooms": [],
+        "rooms": [
+          "AS6",
+          "Communications & New Media Programme",
+          "Computational Linguistics Research Lab",
+          "Computer Vision Research Lab",
+          "G^3 Lab",
+          "Industry Research Lab",
+          "Lab for Media Search",
+          "Multimedia Analysis and Synthesis Lab",
+          "Multimedia Systems Lab",
+          "Sensors Lab"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1792,7 +2045,11 @@
         "locationName": "SDE2",
         "locationType": "building",
         "faculty": "School of Design and Environment ",
-        "rooms": [],
+        "rooms": [
+          "Centre for Project Management & Construction Law",
+          "Design Incubation Centre",
+          "SDE2"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1830,7 +2087,9 @@
         "locationName": "Tembusu College",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Tembusu College"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1868,7 +2127,9 @@
         "locationName": "E4A",
         "locationType": "building",
         "faculty": "Engineering",
-        "rooms": [],
+        "rooms": [
+          "E4A"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1906,7 +2167,12 @@
         "locationName": "E1",
         "locationType": "building",
         "faculty": "Engineering",
-        "rooms": [],
+        "rooms": [
+          "Centre for Soft-ground Engineering",
+          "E1",
+          "Engineering IT Unit",
+          "Temasek Defence Systems Institute"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1925,7 +2191,9 @@
         "locationName": "CELC",
         "locationType": "building",
         "faculty": "School of Design and Environment ",
-        "rooms": [],
+        "rooms": [
+          "Centre for English Language Communication"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -1982,7 +2250,32 @@
         "locationName": "University Hall",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Central Procurement Unit",
+          "Investment Office",
+          "NUS (Suzhou) Research Institute Liaison Office",
+          "NUS-Fudan Joint Graduate School",
+          "Office of Corporate Compliance",
+          "Office of Corporate Relations",
+          "Office of Financial Services",
+          "Office of Human Resources",
+          "Office of Internal Audit",
+          "Office of Investment",
+          "Office of Legal Affairs",
+          "Organisational Excellence Office",
+          "Office of Resource Planning",
+          "Office of Risk Management",
+          "Office of the Deputy President (Administration)",
+          "Office of the Deputy President (Research & Technology)",
+          "Office of the President",
+          "Office of the Provost",
+          "Office of the Vice President (University & Global Relations)",
+          "Registrar's Office",
+          "Security Post (University Hall)",
+          "Spinelli",
+          "University Hall",
+          "Singapore Nuclear Research and Safety Initiative"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2096,7 +2389,9 @@
         "locationName": "Yale-NUS College",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Yale-NUS College"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2115,7 +2410,11 @@
         "locationName": "MD4",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Antenatal Diagnostic Centre",
+          "Department of Microbiology",
+          "MD4"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2153,7 +2452,24 @@
         "locationName": "COM 1",
         "locationType": "building",
         "faculty": "Computing",
-        "rooms": [],
+        "rooms": [
+          "Adaptive Computing Research Lab",
+          "Algorithms Research Lab",
+          "COM1",
+          "Computational Biology Research Lab",
+          "Computing",
+          "Database Research Lab 1",
+          "Database Research Lab 2",
+          "Department of Computer Science",
+          "Division of Graduate Studies (School of Computing)",
+          "Division of Research (School of Computing)",
+          "Electronic Commerce & Database Research Lab",
+          "Embedded Systems Research Lab 1",
+          "Embedded Systems Research Lab 2",
+          "Medical Computing Research Lab",
+          "Programming Languages & Systems Research Lab 1",
+          "School of Computing (Dean's Office)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2172,7 +2488,10 @@
         "locationName": "COMCEN",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Centre for Instructional Technology (Computer Centre)",
+          "Computer Centre"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2191,7 +2510,10 @@
         "locationName": "University Health Centre",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Health Wellness & Counselling Centre",
+          "University Health Centre"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2286,7 +2608,17 @@
         "locationName": "S16",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Bio-Sciences Complex",
+          "Department of Statistics & Applied Probability",
+          "Division of Research & Graduate Studies (Faculty of Sciences)",
+          "Faculty of Science (Dean's Office)",
+          "S16",
+          "Science",
+          "Security Post (Bio-Sciences Complex)",
+          "UOB ATMs (S16, near Science Canteen)",
+          "Playtypus Food Bar"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2324,7 +2656,9 @@
         "locationName": "MD2",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "MD2"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2343,7 +2677,11 @@
         "locationName": "BIZ 2",
         "locationType": "building",
         "faculty": "Business",
-        "rooms": [],
+        "rooms": [
+          "BIZ2",
+          "Saw Centre for Financial Studies",
+          "Saw Centre for Quantitative Finance"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2362,7 +2700,11 @@
         "locationName": "S8",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Chemical, Molecular and Materials Analysis Centre",
+          "Department of Chemistry (S8)",
+          "S8"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2400,7 +2742,14 @@
         "locationName": "MD11",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Centre for Biomedical Ethics",
+          "Department of Pharmacology",
+          "MD11",
+          "National University Medical Institutes",
+          "School of Medicine (Dean's Office)",
+          "Starbucks (MD11)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2419,7 +2768,9 @@
         "locationName": "Eusoff Hall",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Eusoff Hall"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2438,7 +2789,11 @@
         "locationName": "Education Resource Centre",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Education Resource Centre",
+          "Security Post (Education Resource Centre)",
+          "Starbucks (University Town)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2457,7 +2812,12 @@
         "locationName": "CREATE Tower",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Cheers Convenience Store",
+          "Create Tower",
+          "Koufu",
+          "Subway (University Town)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2495,7 +2855,9 @@
         "locationName": "Kent Ridge Hall",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Kent Ridge Hall"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2551,7 +2913,16 @@
       "properties": {
         "locationType": "building",
         "faculty": "Engineering",
-        "rooms": "",
+        "rooms": [
+          "Alice Lee Centre for Nursing Studies",
+          "Department of Materials Science & Engineering",
+          "Division of Bioengineering",
+          "Division of Engineering Technology Management",
+          "E3A",
+          "Engineering Science Programme",
+          "Security Post (E3A)",
+          "Solar Energy Research Institute of Singapore (SERIS)"
+        ],
         "edgeList": {},
         "locationImageUrl": "",
         "locationName": "E3A"
@@ -2571,7 +2942,10 @@
         "locationName": "EW2",
         "locationType": "building",
         "faculty": "Engineering",
-        "rooms": [],
+        "rooms": [
+          "EW2",
+          "Information Storage Materials Laboratory"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2609,7 +2983,9 @@
         "locationName": "McDonald's",
         "locationType": "building",
         "faculty": "Engineering",
-        "rooms": [],
+        "rooms": [
+          "McDonald's"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2628,7 +3004,10 @@
         "locationName": "Cinammon College",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Cinnamon College",
+          "University Scholars Programme"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2742,7 +3121,9 @@
         "locationName": "EW1",
         "locationType": "building",
         "faculty": "Engineering",
-        "rooms": [],
+        "rooms": [
+          "EW1"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2761,7 +3142,13 @@
         "locationName": "Prince George's Park Residences",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "E-Canteen",
+          "Prince George's Park Residences",
+          "Route 77 Café",
+          "Supersnacks",
+          "AXS (PGPR)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2875,7 +3262,9 @@
         "locationName": "Hon Sui Sen Memorial Library",
         "locationType": "building",
         "faculty": "Business",
-        "rooms": [],
+        "rooms": [
+          "Hon Sui Sen Memorial Library"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2894,7 +3283,20 @@
         "locationName": "Mochtar Riady Building",
         "locationType": "building",
         "faculty": "Business",
-        "rooms": [],
+        "rooms": [
+          "BIZ1",
+          "Business",
+          "Business School (Dean's Office)",
+          "Department of Accounting",
+          "Department of Decision Sciences",
+          "Department of Finance",
+          "Department of Management & Organisation",
+          "Department of Marketing",
+          "Department of Strategy & Policy",
+          "Division of Research & Graduate Studies (NUS Business School)",
+          "Human Resource Management Unit (NUS Business School)",
+          "Reedz Cafe (Mochtar Riady Building)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2913,7 +3315,14 @@
         "locationName": "E3",
         "locationType": "building",
         "faculty": "Engineering",
-        "rooms": [],
+        "rooms": [
+          "Centre for Integrated Circuit Failure Analysis and Reliability",
+          "Centre for Optoelectronics",
+          "Centre for Power Electronics",
+          "E3",
+          "NUS Nanoscience and Nanotechnology Institute (E3)",
+          "Technopreneurship Incubation Programme"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2951,7 +3360,13 @@
         "locationName": "AS3",
         "locationType": "building",
         "faculty": "FASS",
-        "rooms": [],
+        "rooms": [
+          "AS3",
+          "Department of Philosophy",
+          "Department of Social Work",
+          "NUS Press",
+          "Southeast Asian Studies Programme"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -2989,7 +3404,10 @@
         "locationName": "Techno Edge",
         "locationType": "building",
         "faculty": "Engineering",
-        "rooms": [],
+        "rooms": [
+          "Techno Edge Canteen",
+          "DBS / POSBank ATMs (TechnoEdge Canteen)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -3008,7 +3426,9 @@
         "locationName": "College of Alice & Peter Tan",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "College of Alice & Peter Tan"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -3046,7 +3466,13 @@
         "locationName": "S17",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Centre for Remote Imaging, Sensing and Processing (CRISP)",
+          "Department of Mathematics (S17)",
+          "Global Asia Institute (GAI)",
+          "S17",
+          "NUS Global Asia Institute"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -3103,7 +3529,9 @@
         "locationName": "Raffles Hall",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Raffles Hall"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -3122,7 +3550,10 @@
         "locationName": "S15",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Centre for Quantum Technologies",
+          "S15"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -3160,7 +3591,9 @@
         "locationName": "Sheares Hall",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Sheares Hall"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -3179,7 +3612,9 @@
         "locationName": "S6",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "S6"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -3198,7 +3633,10 @@
         "locationName": "SDE3",
         "locationType": "building",
         "faculty": "School of Design and Environment ",
-        "rooms": [],
+        "rooms": [
+          "Architectural Studios",
+          "SDE3"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -3217,7 +3655,22 @@
         "locationName": "Stephen Riady Centre",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Butter My Buns",
+          "Bookhaven",
+          "Stephen Riady Centre",
+          "Fairprice Xpress",
+          "Flavours",
+          "Fortune Village",
+          "Guardian",
+          "Office of Admissions",
+          "Office of Financial Aid",
+          "Pizza Hut",
+          "University Town Management Office",
+          "DBS / POSBank ATMs (Stephen Riady Centre L1)",
+          "OCBC ATM (Stephen Riady Centre L1)",
+          "AXS (Stephen Riady Centre L1)"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -3236,7 +3689,10 @@
         "locationName": "S9",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Department of Chemistry (S9)",
+          "S9"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -3255,7 +3711,10 @@
         "locationName": "MD9",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Department of Physiology",
+          "MD9"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -3274,7 +3733,12 @@
         "locationName": "S13",
         "locationType": "building",
         "faculty": "Science",
-        "rooms": [],
+        "rooms": [
+          "Centre for Wavelets Approximation & Information Processing",
+          "Department of Physics (S13)",
+          "S13",
+          "Surface Science Laboratory"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
@@ -3312,7 +3776,14 @@
         "locationName": "MD6",
         "locationType": "building",
         "faculty": "",
-        "rooms": [],
+        "rooms": [
+          "Integrative Sciences & Engineering",
+          "Dily's Creation",
+          "Lecture Theatre 35",
+          "Lecture Theatre 36",
+          "MD6",
+          "Medicine"
+        ],
         "edgeList": {},
         "locationImageUrl": ""
       },
