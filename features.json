@@ -463,7 +463,28 @@
           "Koufu",
           "Subway (University Town)"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Town Plaza": {
+            "time": 0.5952380952380952,
+            "distance": 50,
+            "stairsDirection": 1,
+            "stairsWeight": 50,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Town Green": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 0,
+            "stairsWeight": 120,
+            "shelterWeight": 120,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -601,7 +622,38 @@
           "Cinnamon West Learn Lobe",
           "University Scholars Programme Office"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Tembusu College": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 1,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Chua Thian Poh Hall": {
+            "time": 0.4761904761904762,
+            "distance": 40,
+            "stairsDirection": 1,
+            "stairsWeight": 40,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Education Resource Centre": {
+            "time": 1.5476190476190477,
+            "distance": 130,
+            "stairsDirection": 1,
+            "stairsWeight": 130,
+            "shelterWeight": 130,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -914,7 +966,18 @@
           "Hwang's Korean Restaurant",
           "Sapore Italiano (University Town)"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Town Plaza": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 1,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -2330,7 +2393,38 @@
         "rooms": [
           "College of Alice & Peter Tan"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Chua Thian Poh Hall": {
+            "time": 0.8333333333333334,
+            "distance": 70,
+            "stairsDirection": 1,
+            "stairsWeight": 70,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Residential College 4": {
+            "time": 1.0714285714285716,
+            "distance": 90,
+            "stairsDirection": 1,
+            "stairsWeight": 90,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Education Resource Centre": {
+            "time": 2.0238095238095237,
+            "distance": 170,
+            "stairsDirection": 1,
+            "stairsWeight": 170,
+            "shelterWeight": 170,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -2376,7 +2470,18 @@
         "rooms": [
           "Residential College 4"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "College of Alice & Peter Tan": {
+            "time": 1.0714285714285716,
+            "distance": 90,
+            "stairsDirection": 1,
+            "stairsWeight": 90,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -3810,7 +3915,48 @@
         "rooms": [
           "The Ngee Ann Kongsi Auditorium"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Town Green": {
+            "time": 0.8928571428571429,
+            "distance": 75,
+            "stairsDirection": 0,
+            "stairsWeight": 75,
+            "shelterWeight": 75,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Education Resource Centre": {
+            "time": 0.5952380952380952,
+            "distance": 50,
+            "stairsDirection": 1,
+            "stairsWeight": 50,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Stephen Riady Centre": {
+            "time": 2.1428571428571432,
+            "distance": 180,
+            "stairsDirection": 1,
+            "stairsWeight": 180,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "UTown Residences": {
+            "time": 1.0714285714285716,
+            "distance": 90,
+            "stairsDirection": 1,
+            "stairsWeight": 90,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -3947,7 +4093,48 @@
           "OCBC ATM (Stephen Riady Centre L1)",
           "AXS (Stephen Riady Centre L1)"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Town Plaza": {
+            "time": 2.1428571428571432,
+            "distance": 180,
+            "stairsDirection": 1,
+            "stairsWeight": 180,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Town Green": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 0,
+            "stairsWeight": 120,
+            "shelterWeight": 120,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "The Ngee Ann Kongsi Auditorium": {
+            "time": 2.1428571428571432,
+            "distance": 180,
+            "stairsDirection": 1,
+            "stairsWeight": 180,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Education Resource Centre": {
+            "time": 1.6666666666666667,
+            "distance": 140,
+            "stairsDirection": 1,
+            "stairsWeight": 140,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -4375,7 +4562,38 @@
           "Tembusu Multi-purpose Hall",
           "Tembusu West Learn Lobe"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "UTown Residences": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 0,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Cinnamon College": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 1,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Education Resource Centre": {
+            "time": 1.1904761904761905,
+            "distance": 100,
+            "stairsDirection": 1,
+            "stairsWeight": 100,
+            "shelterWeight": 100,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -4418,7 +4636,58 @@
           "UTown Residence South Tower",
           "UTown Residence North Tower"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Town Plaza": {
+            "time": 1.5476190476190477,
+            "distance": 130,
+            "stairsDirection": 1,
+            "stairsWeight": 130,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Town Green": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 0,
+            "stairsWeight": 60,
+            "shelterWeight": 60,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "The Ngee Ann Kongsi Auditorium": {
+            "time": 1.0714285714285716,
+            "distance": 90,
+            "stairsDirection": 1,
+            "stairsWeight": 90,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Education Resource Centre": {
+            "time": 1.5476190476190477,
+            "distance": 130,
+            "stairsDirection": 1,
+            "stairsWeight": 130,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Tembusu College": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 2,
+            "stairsWeight": 240,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -4858,7 +5127,58 @@
           "Town Plaza",
           "The Royals Bistro"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Create Tower": {
+            "time": 0.5952380952380952,
+            "distance": 50,
+            "stairsDirection": 1,
+            "stairsWeight": 50,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Stephen Riady Centre": {
+            "time": 2.1428571428571432,
+            "distance": 180,
+            "stairsDirection": 1,
+            "stairsWeight": 180,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "UTown Residences": {
+            "time": 1.5476190476190477,
+            "distance": 130,
+            "stairsDirection": 1,
+            "stairsWeight": 130,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Create": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 1,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Town Green": {
+            "time": 1.6666666666666667,
+            "distance": 140,
+            "stairsDirection": 0,
+            "stairsWeight": 140,
+            "shelterWeight": 140,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -5138,7 +5458,78 @@
           "Starbucks (University Town)",
           "Continuing and Lifelong Education"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Town Green": {
+            "time": 1.1904761904761905,
+            "distance": 100,
+            "stairsDirection": 0,
+            "stairsWeight": 100,
+            "shelterWeight": 100,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "The Ngee Ann Kongsi Auditorium": {
+            "time": 0.5952380952380952,
+            "distance": 50,
+            "stairsDirection": 1,
+            "stairsWeight": 50,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "UTown Residences": {
+            "time": 1.5476190476190477,
+            "distance": 130,
+            "stairsDirection": 1,
+            "stairsWeight": 130,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Stephen Riady Centre": {
+            "time": 1.6666666666666667,
+            "distance": 140,
+            "stairsDirection": 1,
+            "stairsWeight": 140,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Tembusu College": {
+            "time": 1.1904761904761905,
+            "distance": 100,
+            "stairsDirection": 1,
+            "stairsWeight": 100,
+            "shelterWeight": 100,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Cinnamon College": {
+            "time": 1.5476190476190477,
+            "distance": 130,
+            "stairsDirection": 1,
+            "stairsWeight": 130,
+            "shelterWeight": 130,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "College of Alice & Peter Tan": {
+            "time": 2.0238095238095237,
+            "distance": 170,
+            "stairsDirection": 1,
+            "stairsWeight": 170,
+            "shelterWeight": 170,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -5159,7 +5550,28 @@
         "rooms": [
           "Chua Thian Poh Hall"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Cinnamon College": {
+            "time": 0.4761904761904762,
+            "distance": 40,
+            "stairsDirection": 1,
+            "stairsWeight": 40,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "College of Alice & Peter Tan": {
+            "time": 0.8333333333333334,
+            "distance": 70,
+            "stairsDirection": 1,
+            "stairsWeight": 70,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -5449,7 +5861,68 @@
         "rooms": [
           "Town Green"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "UTown Residences": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 2,
+            "stairsWeight": 120,
+            "shelterWeight": 60,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Town Plaza": {
+            "time": 1.6666666666666667,
+            "distance": 140,
+            "stairsDirection": 2,
+            "stairsWeight": 280,
+            "shelterWeight": 140,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "The Ngee Ann Kongsi Auditorium": {
+            "time": 0.8928571428571429,
+            "distance": 75,
+            "stairsDirection": 2,
+            "stairsWeight": 150,
+            "shelterWeight": 75,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Stephen Riady Centre": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 2,
+            "stairsWeight": 240,
+            "shelterWeight": 120,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Education Resource Centre": {
+            "time": 1.1904761904761905,
+            "distance": 100,
+            "stairsDirection": 2,
+            "stairsWeight": 200,
+            "shelterWeight": 100,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Create Tower": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 2,
+            "stairsWeight": 240,
+            "shelterWeight": 120,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
