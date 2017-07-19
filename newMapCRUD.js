@@ -73,7 +73,7 @@ var geojson = {
         "faculty": "",
         "locationImageUrl": "",
         "locationName": "Singapore Synchrotron Light Source",
-        "locationType": "",
+        "locationType": "building",
         "rooms": [
           "Singapore Synchrotron Light Source (SSLS)"
         ]
@@ -2588,7 +2588,7 @@ var geojson = {
         "faculty": "",
         "locationImageUrl": "",
         "locationName": "Institute of Materials Research & Engineering",
-        "locationType": "",
+        "locationType": "building",
         "rooms": [
           "Institute of Materials Research & Engineering"
         ]
@@ -7304,7 +7304,7 @@ var fullMap = {
   },
   "Institute of Materials Research & Engineering": {
     "locationName": "Institute of Materials Research & Engineering",
-    "locationType": "",
+    "locationType": "building",
     "locationImageUrl": "",
     "coordinates": [
       103.775663,
@@ -9339,7 +9339,7 @@ var fullMap = {
   },
   "Singapore Synchrotron Light Source": {
     "locationName": "Singapore Synchrotron Light Source",
-    "locationType": "",
+    "locationType": "building",
     "locationImageUrl": "",
     "coordinates": [
       103.77512,
