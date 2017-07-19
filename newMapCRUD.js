@@ -9967,7 +9967,7 @@ function addEdges() {
   var name2 = prompt("to vertex");
   var walkingSpeed = 1.4;
   //if both directions do not exist
-  if (areVertexesLinked(name1, name2) === false) {
+  if ((areVertexesLinked(name1, name2) === false) && fullMap[name1] && fullMap[name2]) {
     //input direction is name1 to name2
     //var time = parseFloat(prompt("timetaken"));
     var distance = parseFloat(prompt("distance"));
@@ -10080,6 +10080,12 @@ function editEdges() {
   }
   console.log(name1 + " <-> " + name2);
 
+}
+
+function readVertex(){
+  var name = prompt("vertex name?");
+  if (fullMap[name])
+    console.log(JSON.stringify(fullMap[name].edgeList));
 }
 
 //reads both edgeList of 2 vertices
