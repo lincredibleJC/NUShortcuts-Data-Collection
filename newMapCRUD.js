@@ -7081,13 +7081,18 @@ function areVertexesLinked(name1, name2) {
 
   if (fullMap[name1] && fullMap[name1].edgeList[name2]) {
     one = true;
-  }
-  if (fullMap[name2] && fullMap[name2].edgeList[name1]) {
-    two = true;
+  }else if (!fullMap[name1]){
+      console.log(name1 + " does not exist");
   }
 
-  console.log("name1" + " to " + name2 + " exists " + one);
-  console.log("name2" + " to " + name1 + " exists " + two);
+  if (fullMap[name2] && fullMap[name2].edgeList[name1]) {
+    two = true;
+  }else if (!fullMap[name2]){
+      console.log(name2 + " does not exist");
+  }
+
+  console.log(name1 + " to " + name2 + " exists " + one);
+  console.log(name2 + " to " + name1 + " exists " + two);
   return one && two;
 }
 
@@ -7123,6 +7128,7 @@ function addEdges() {
       console.log(name1 + " to " + name2 + " " + JSON.stringify(fullMap[name1].edgeList[name2]));
     } else {
       console.log(name1 + " does not exist");
+      break;
     }
 
     //add reverse direction edge
@@ -7145,6 +7151,7 @@ function addEdges() {
       console.log(name2 + " to " + name1 + " " + JSON.stringify(fullMap[name2].edgeList[name1]));
     } else {
       console.log(name2 + " does not exist");
+      break;
     }
     console.log(name1 + " <-> " + name2);
     console.log("2 edges added")
@@ -7204,6 +7211,8 @@ function editEdges() {
 
   } else {
     console.log("the 2 vertices are not linked")
+    if (!fullMap[name1]) console.log(name1 + " does not exist");
+    if (!fullMap[name2]) console.log(name2 + " does not exist");
   }
   console.log(name1 + " <-> " + name2);
 
