@@ -284,7 +284,38 @@ var geojson = {
         "rooms": [
           "Lecture Theatre 3"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "E5": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 1,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 4": {
+            "time": 0.35714285714285715,
+            "distance": 30,
+            "stairsDirection": 1,
+            "stairsWeight": 30,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Computer Centre": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 1,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -326,7 +357,48 @@ var geojson = {
         "rooms": [
           "Des The Place"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "E2": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 1,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E1": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 1,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E4": {
+            "time": 1.0714285714285716,
+            "distance": 90,
+            "stairsDirection": 0,
+            "stairsWeight": 90,
+            "shelterWeight": 90,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E3": {
+            "time": 0.9523809523809524,
+            "distance": 80,
+            "stairsDirection": 0,
+            "stairsWeight": 80,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -424,7 +496,58 @@ var geojson = {
           "SDE1",
           "Coop - SDE (Block SDE1)"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Techno Edge": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 2,
+            "stairsWeight": 240,
+            "shelterWeight": 120,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE2": {
+            "time": 0.4166666666666667,
+            "distance": 35,
+            "stairsDirection": 1,
+            "stairsWeight": 35,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "McDonald's": {
+            "time": 1.3095238095238095,
+            "distance": 110,
+            "stairsDirection": 2,
+            "stairsWeight": 220,
+            "shelterWeight": 110,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE3": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 1,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "CELC": {
+            "time": 1.3095238095238095,
+            "distance": 110,
+            "stairsDirection": 1,
+            "stairsWeight": 110,
+            "shelterWeight": 110,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -615,7 +738,18 @@ var geojson = {
         "rooms": [
           "Lecture Theatre 7A"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "EA": {
+            "time": 0.5357142857142858,
+            "distance": 45,
+            "stairsDirection": 1,
+            "stairsWeight": 45,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": "",
         "locationName": "Lecture Theatre 7A"
       },
@@ -637,7 +771,38 @@ var geojson = {
         "rooms": [
           "Lecture Theatre 5"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "E1": {
+            "time": 0.5952380952380952,
+            "distance": 50,
+            "stairsDirection": 1,
+            "stairsWeight": 50,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Techno Edge": {
+            "time": 0.5952380952380952,
+            "distance": 50,
+            "stairsDirection": 0,
+            "stairsWeight": 50,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E4": {
+            "time": 0.9523809523809524,
+            "distance": 80,
+            "stairsDirection": 2,
+            "stairsWeight": 160,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -913,7 +1078,18 @@ var geojson = {
         "locationType": "building",
         "faculty": "",
         "rooms": [],
-        "edgeList": {},
+        "edgeList": {
+          "Raffles Hall": {
+            "time": 1.1904761904761905,
+            "distance": 100,
+            "stairsDirection": 1,
+            "stairsWeight": 100,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -954,7 +1130,48 @@ var geojson = {
           "Centre for Instructional Technology (Computer Centre)",
           "Computer Centre"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Techno Edge": {
+            "time": 1.3690476190476193,
+            "distance": 115,
+            "stairsDirection": 0,
+            "stairsWeight": 115,
+            "shelterWeight": 115,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E5": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 1,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 4": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 1,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 3": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 1,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -1154,7 +1371,48 @@ var geojson = {
           "EW2",
           "Information Storage Materials Laboratory"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "E4A": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 1,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "T-Lab": {
+            "time": 1.3095238095238095,
+            "distance": 110,
+            "stairsDirection": 1,
+            "stairsWeight": 110,
+            "shelterWeight": 110,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E6": {
+            "time": 0.5952380952380952,
+            "distance": 50,
+            "stairsDirection": 1,
+            "stairsWeight": 50,
+            "shelterWeight": 50,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Raffles Hall": {
+            "time": 1.5476190476190477,
+            "distance": 130,
+            "stairsDirection": 0,
+            "stairsWeight": 130,
+            "shelterWeight": 130,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -1279,7 +1537,78 @@ var geojson = {
           "E2",
           "A.R.T. FoodHouse"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "EA": {
+            "time": 1.3095238095238095,
+            "distance": 110,
+            "stairsDirection": 1,
+            "stairsWeight": 110,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 7": {
+            "time": 0.8928571428571429,
+            "distance": 75,
+            "stairsDirection": 0,
+            "stairsWeight": 75,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 1": {
+            "time": 0.2380952380952381,
+            "distance": 20,
+            "stairsDirection": 1,
+            "stairsWeight": 20,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 2": {
+            "time": 0.2380952380952381,
+            "distance": 20,
+            "stairsDirection": 2,
+            "stairsWeight": 40,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E2A": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 1,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E1A": {
+            "time": 1.1904761904761905,
+            "distance": 100,
+            "stairsDirection": 1,
+            "stairsWeight": 100,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E1": {
+            "time": 1.0714285714285716,
+            "distance": 90,
+            "stairsDirection": 1,
+            "stairsWeight": 90,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -1345,7 +1674,38 @@ var geojson = {
         "rooms": [
           "Lecture Theatre 4"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "E5": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 1,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 3": {
+            "time": 0.35714285714285715,
+            "distance": 30,
+            "stairsDirection": 1,
+            "stairsWeight": 30,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Computer Centre": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 1,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -1435,7 +1795,58 @@ var geojson = {
         "rooms": [
           "Centre for English Language Communication"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Techno Edge": {
+            "time": 1.3690476190476193,
+            "distance": 115,
+            "stairsDirection": 2,
+            "stairsWeight": 230,
+            "shelterWeight": 115,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "McDonald's": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 2,
+            "stairsWeight": 240,
+            "shelterWeight": 120,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE2": {
+            "time": 0.8333333333333334,
+            "distance": 70,
+            "stairsDirection": 1,
+            "stairsWeight": 70,
+            "shelterWeight": 70,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE1": {
+            "time": 1.3095238095238095,
+            "distance": 110,
+            "stairsDirection": 1,
+            "stairsWeight": 110,
+            "shelterWeight": 110,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE3": {
+            "time": 1.7857142857142858,
+            "distance": 150,
+            "stairsDirection": 1,
+            "stairsWeight": 150,
+            "shelterWeight": 150,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -1621,7 +2032,58 @@ var geojson = {
           "NUS Environmental Research Institute (NERI)",
           "Temasek Laboratories (TL@NUS)"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "E3": {
+            "time": 1.1904761904761905,
+            "distance": 100,
+            "stairsDirection": 1,
+            "stairsWeight": 100,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E3A": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 2,
+            "stairsWeight": 240,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "EW2": {
+            "time": 1.3095238095238095,
+            "distance": 110,
+            "stairsDirection": 1,
+            "stairsWeight": 110,
+            "shelterWeight": 110,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E6": {
+            "time": 1.3095238095238095,
+            "distance": 110,
+            "stairsDirection": 1,
+            "stairsWeight": 110,
+            "shelterWeight": 110,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Raffles Hall": {
+            "time": 1.7857142857142858,
+            "distance": 150,
+            "stairsDirection": 0,
+            "stairsWeight": 150,
+            "shelterWeight": 150,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -1936,7 +2398,38 @@ var geojson = {
         "rooms": [
           "EW1"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "E1": {
+            "time": 0.9523809523809524,
+            "distance": 80,
+            "stairsDirection": 1,
+            "stairsWeight": 80,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "McDonald's": {
+            "time": 0.9523809523809524,
+            "distance": 80,
+            "stairsDirection": 1,
+            "stairsWeight": 80,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE3": {
+            "time": 0.5952380952380952,
+            "distance": 50,
+            "stairsDirection": 0,
+            "stairsWeight": 50,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -2000,7 +2493,18 @@ var geojson = {
         "rooms": [
           "Lecture Theatre 6"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "E4": {
+            "time": 0.35714285714285715,
+            "distance": 30,
+            "stairsDirection": 1,
+            "stairsWeight": 30,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -2110,7 +2614,68 @@ var geojson = {
           "Engineering IT Unit",
           "Temasek Defence Systems Institute"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "E2": {
+            "time": 1.0714285714285716,
+            "distance": 90,
+            "stairsDirection": 1,
+            "stairsWeight": 90,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E1A": {
+            "time": 0.9523809523809524,
+            "distance": 80,
+            "stairsDirection": 1,
+            "stairsWeight": 80,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "EW1": {
+            "time": 0.9523809523809524,
+            "distance": 80,
+            "stairsDirection": 1,
+            "stairsWeight": 80,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 5": {
+            "time": 0.5952380952380952,
+            "distance": 50,
+            "stairsDirection": 1,
+            "stairsWeight": 50,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "McDonald's": {
+            "time": 0.9523809523809524,
+            "distance": 80,
+            "stairsDirection": 1,
+            "stairsWeight": 80,
+            "shelterWeight": 80,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E2A": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 1,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -2145,7 +2710,78 @@ var geojson = {
           "Professional Activities Centre (Faculty of Engineering)",
           "Centre for Healthcare Innovation and Medical Engineering"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Engineering Auditorium": {
+            "time": 0.5357142857142858,
+            "distance": 45,
+            "stairsDirection": 1,
+            "stairsWeight": 45,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 7A": {
+            "time": 0.5357142857142858,
+            "distance": 45,
+            "stairsDirection": 1,
+            "stairsWeight": 45,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 7": {
+            "time": 0.8333333333333334,
+            "distance": 70,
+            "stairsDirection": 1,
+            "stairsWeight": 70,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E3A": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 1,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E1A": {
+            "time": 1.5476190476190477,
+            "distance": 130,
+            "stairsDirection": 1,
+            "stairsWeight": 130,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E2": {
+            "time": 1.3095238095238095,
+            "distance": 110,
+            "stairsDirection": 1,
+            "stairsWeight": 110,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE3": {
+            "time": 2.9761904761904763,
+            "distance": 250,
+            "stairsDirection": 0,
+            "stairsWeight": 250,
+            "shelterWeight": 250,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -2283,7 +2919,58 @@ var geojson = {
           "Raffles Hall",
           "Kuok Foundation House"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "T-Lab": {
+            "time": 1.7857142857142858,
+            "distance": 150,
+            "stairsDirection": 2,
+            "stairsWeight": 300,
+            "shelterWeight": 150,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "EW2": {
+            "time": 1.5476190476190477,
+            "distance": 130,
+            "stairsDirection": 2,
+            "stairsWeight": 260,
+            "shelterWeight": 130,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E6": {
+            "time": 1.3095238095238095,
+            "distance": 110,
+            "stairsDirection": 2,
+            "stairsWeight": 220,
+            "shelterWeight": 110,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E3A": {
+            "time": 2.619047619047619,
+            "distance": 220,
+            "stairsDirection": 2,
+            "stairsWeight": 440,
+            "shelterWeight": 220,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "CFA Studios": {
+            "time": 1.1904761904761905,
+            "distance": 100,
+            "stairsDirection": 1,
+            "stairsWeight": 100,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -2358,7 +3045,68 @@ var geojson = {
           "Architectural Studios",
           "SDE3"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "E1A": {
+            "time": 1.7857142857142858,
+            "distance": 150,
+            "stairsDirection": 2,
+            "stairsWeight": 300,
+            "shelterWeight": 150,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "EA": {
+            "time": 2.9761904761904763,
+            "distance": 250,
+            "stairsDirection": 2,
+            "stairsWeight": 500,
+            "shelterWeight": 250,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "EW1": {
+            "time": 0.5952380952380952,
+            "distance": 50,
+            "stairsDirection": 2,
+            "stairsWeight": 100,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE2": {
+            "time": 0.8928571428571429,
+            "distance": 75,
+            "stairsDirection": 1,
+            "stairsWeight": 75,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE1": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 1,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "CELC": {
+            "time": 1.7857142857142858,
+            "distance": 150,
+            "stairsDirection": 1,
+            "stairsWeight": 150,
+            "shelterWeight": 150,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -2497,7 +3245,58 @@ var geojson = {
           "Security Post (E3A)",
           "Solar Energy Research Institute of Singapore (SERIS)"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "EA": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 1,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 7": {
+            "time": 0.5952380952380952,
+            "distance": 50,
+            "stairsDirection": 2,
+            "stairsWeight": 100,
+            "shelterWeight": 50,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E3": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 2,
+            "stairsWeight": 240,
+            "shelterWeight": 120,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "T-Lab": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 0,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Raffles Hall": {
+            "time": 2.619047619047619,
+            "distance": 220,
+            "stairsDirection": 0,
+            "stairsWeight": 220,
+            "shelterWeight": 220,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": "",
         "locationName": "E3A"
       },
@@ -2640,7 +3439,68 @@ var geojson = {
           "NUS Nanoscience and Nanotechnology Institute (E3)",
           "Technopreneurship Incubation Programme"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Lecture Theatre 1": {
+            "time": 0.9523809523809524,
+            "distance": 80,
+            "stairsDirection": 1,
+            "stairsWeight": 80,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 2": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 2,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E3A": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 0,
+            "stairsWeight": 120,
+            "shelterWeight": 120,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "T-Lab": {
+            "time": 1.1904761904761905,
+            "distance": 100,
+            "stairsDirection": 1,
+            "stairsWeight": 100,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E4": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 1,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E2A": {
+            "time": 0.9523809523809524,
+            "distance": 80,
+            "stairsDirection": 2,
+            "stairsWeight": 160,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -2663,7 +3523,58 @@ var geojson = {
           "Design Incubation Centre",
           "SDE2"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Techno Edge": {
+            "time": 1.0119047619047619,
+            "distance": 85,
+            "stairsDirection": 2,
+            "stairsWeight": 170,
+            "shelterWeight": 85,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE1": {
+            "time": 0.4166666666666667,
+            "distance": 35,
+            "stairsDirection": 1,
+            "stairsWeight": 35,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE3": {
+            "time": 0.8928571428571429,
+            "distance": 75,
+            "stairsDirection": 1,
+            "stairsWeight": 75,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "McDonald's": {
+            "time": 1.0119047619047619,
+            "distance": 85,
+            "stairsDirection": 2,
+            "stairsWeight": 170,
+            "shelterWeight": 85,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "CELC": {
+            "time": 0.8333333333333334,
+            "distance": 70,
+            "stairsDirection": 1,
+            "stairsWeight": 70,
+            "shelterWeight": 70,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -2684,7 +3595,48 @@ var geojson = {
         "rooms": [
           "Lecture Theatre 1"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Lecture Theatre 7": {
+            "time": 0.8928571428571429,
+            "distance": 75,
+            "stairsDirection": 0,
+            "stairsWeight": 75,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E3": {
+            "time": 0.9523809523809524,
+            "distance": 80,
+            "stairsDirection": 1,
+            "stairsWeight": 80,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 2": {
+            "time": 0.4761904761904762,
+            "distance": 40,
+            "stairsDirection": 2,
+            "stairsWeight": 80,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E2": {
+            "time": 0.2380952380952381,
+            "distance": 20,
+            "stairsDirection": 1,
+            "stairsWeight": 20,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -2711,7 +3663,88 @@ var geojson = {
           "AXS (E4)",
           "Dilys Creation (Engineering)"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Lecture Theatre 2": {
+            "time": 1.1904761904761905,
+            "distance": 100,
+            "stairsDirection": 2,
+            "stairsWeight": 200,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 7": {
+            "time": 1.7857142857142858,
+            "distance": 150,
+            "stairsDirection": 0,
+            "stairsWeight": 150,
+            "shelterWeight": 150,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 5": {
+            "time": 0.9523809523809524,
+            "distance": 80,
+            "stairsDirection": 0,
+            "stairsWeight": 80,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E3": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 1,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E2A": {
+            "time": 1.0714285714285716,
+            "distance": 90,
+            "stairsDirection": 2,
+            "stairsWeight": 180,
+            "shelterWeight": 90,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 6": {
+            "time": 0.35714285714285715,
+            "distance": 30,
+            "stairsDirection": 1,
+            "stairsWeight": 30,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E5": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 1,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E4A": {
+            "time": 1.3095238095238095,
+            "distance": 110,
+            "stairsDirection": 1,
+            "stairsWeight": 110,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -2843,7 +3876,18 @@ var geojson = {
         "locationType": "building",
         "faculty": "Engineering",
         "rooms": [],
-        "edgeList": {},
+        "edgeList": {
+          "EA": {
+            "time": 0.5357142857142858,
+            "distance": 45,
+            "stairsDirection": 1,
+            "stairsWeight": 45,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -3045,7 +4089,48 @@ var geojson = {
           "E1A",
           "Engineering Design and Innovation Centre"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "EA": {
+            "time": 1.5476190476190477,
+            "distance": 130,
+            "stairsDirection": 1,
+            "stairsWeight": 130,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E2": {
+            "time": 1.1904761904761905,
+            "distance": 100,
+            "stairsDirection": 1,
+            "stairsWeight": 100,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E1": {
+            "time": 0.9523809523809524,
+            "distance": 80,
+            "stairsDirection": 1,
+            "stairsWeight": 80,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE3": {
+            "time": 1.7857142857142858,
+            "distance": 150,
+            "stairsDirection": 0,
+            "stairsWeight": 150,
+            "shelterWeight": 150,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -3150,7 +4235,58 @@ var geojson = {
           "E5",
           "Security Post (Engineering Block)"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Techno Edge": {
+            "time": 1.5476190476190477,
+            "distance": 130,
+            "stairsDirection": 0,
+            "stairsWeight": 130,
+            "shelterWeight": 130,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E4": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 1,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Computer Centre": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 1,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 4": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 1,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 3": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 1,
+            "stairsWeight": 120,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -3304,7 +4440,48 @@ var geojson = {
         "rooms": [
           "Lecture Theatre 2"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "Lecture Theatre 1": {
+            "time": 0.4761904761904762,
+            "distance": 40,
+            "stairsDirection": 0,
+            "stairsWeight": 40,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E2": {
+            "time": 0.2380952380952381,
+            "distance": 20,
+            "stairsDirection": 0,
+            "stairsWeight": 20,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E4": {
+            "time": 1.1904761904761905,
+            "distance": 100,
+            "stairsDirection": 0,
+            "stairsWeight": 100,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E3": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 0,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -3325,7 +4502,48 @@ var geojson = {
         "rooms": [
           "Data Storage Institute"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "T-Lab": {
+            "time": 1.3095238095238095,
+            "distance": 110,
+            "stairsDirection": 1,
+            "stairsWeight": 110,
+            "shelterWeight": 110,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "EW2": {
+            "time": 0.5952380952380952,
+            "distance": 50,
+            "stairsDirection": 1,
+            "stairsWeight": 50,
+            "shelterWeight": 50,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E4A": {
+            "time": 1.1904761904761905,
+            "distance": 100,
+            "stairsDirection": 1,
+            "stairsWeight": 100,
+            "shelterWeight": 100,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Raffles Hall": {
+            "time": 1.3095238095238095,
+            "distance": 110,
+            "stairsDirection": 0,
+            "stairsWeight": 110,
+            "shelterWeight": 110,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -3494,7 +4712,68 @@ var geojson = {
         "rooms": [
           "McDonald's"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "EW1": {
+            "time": 0.9523809523809524,
+            "distance": 80,
+            "stairsDirection": 1,
+            "stairsWeight": 80,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Techno Edge": {
+            "time": 0.4761904761904762,
+            "distance": 40,
+            "stairsDirection": 1,
+            "stairsWeight": 40,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E1": {
+            "time": 0.9523809523809524,
+            "distance": 80,
+            "stairsDirection": 1,
+            "stairsWeight": 80,
+            "shelterWeight": 80,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE2": {
+            "time": 1.0119047619047619,
+            "distance": 85,
+            "stairsDirection": 0,
+            "stairsWeight": 85,
+            "shelterWeight": 85,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE1": {
+            "time": 1.3095238095238095,
+            "distance": 110,
+            "stairsDirection": 0,
+            "stairsWeight": 110,
+            "shelterWeight": 110,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "CELC": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 0,
+            "stairsWeight": 120,
+            "shelterWeight": 120,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -3601,7 +4880,38 @@ var geojson = {
         "rooms": [
           "E4A"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "E4": {
+            "time": 1.3095238095238095,
+            "distance": 110,
+            "stairsDirection": 1,
+            "stairsWeight": 110,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "EW2": {
+            "time": 0.7142857142857143,
+            "distance": 60,
+            "stairsDirection": 1,
+            "stairsWeight": 60,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E6": {
+            "time": 1.1904761904761905,
+            "distance": 100,
+            "stairsDirection": 1,
+            "stairsWeight": 100,
+            "shelterWeight": 100,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -3644,7 +4954,78 @@ var geojson = {
           "Techno Edge Canteen",
           "DBS / POSBank ATMs (TechnoEdge Canteen)"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "McDonald's": {
+            "time": 0.4761904761904762,
+            "distance": 40,
+            "stairsDirection": 1,
+            "stairsWeight": 40,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 5": {
+            "time": 0.5952380952380952,
+            "distance": 50,
+            "stairsDirection": 2,
+            "stairsWeight": 100,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E5": {
+            "time": 1.5476190476190477,
+            "distance": 130,
+            "stairsDirection": 2,
+            "stairsWeight": 260,
+            "shelterWeight": 130,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Computer Centre": {
+            "time": 1.3690476190476193,
+            "distance": 115,
+            "stairsDirection": 2,
+            "stairsWeight": 230,
+            "shelterWeight": 115,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE2": {
+            "time": 1.0119047619047619,
+            "distance": 85,
+            "stairsDirection": 0,
+            "stairsWeight": 85,
+            "shelterWeight": 85,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "CELC": {
+            "time": 1.3690476190476193,
+            "distance": 115,
+            "stairsDirection": 0,
+            "stairsWeight": 115,
+            "shelterWeight": 115,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "SDE1": {
+            "time": 1.4285714285714286,
+            "distance": 120,
+            "stairsDirection": 0,
+            "stairsWeight": 120,
+            "shelterWeight": 120,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -3800,7 +5181,58 @@ var geojson = {
         "rooms": [
           "Lecture Theatre 7"
         ],
-        "edgeList": {},
+        "edgeList": {
+          "EA": {
+            "time": 0.8333333333333334,
+            "distance": 70,
+            "stairsDirection": 1,
+            "stairsWeight": 70,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E3A": {
+            "time": 0.5952380952380952,
+            "distance": 50,
+            "stairsDirection": 0,
+            "stairsWeight": 50,
+            "shelterWeight": 50,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "Lecture Theatre 1": {
+            "time": 0.8928571428571429,
+            "distance": 75,
+            "stairsDirection": 2,
+            "stairsWeight": 150,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E2": {
+            "time": 0.8928571428571429,
+            "distance": 75,
+            "stairsDirection": 2,
+            "stairsWeight": 150,
+            "shelterWeight": 0,
+            "shelterMultiplier": 0,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          },
+          "E4": {
+            "time": 1.7857142857142858,
+            "distance": 150,
+            "stairsDirection": 2,
+            "stairsWeight": 300,
+            "shelterWeight": 150,
+            "shelterMultiplier": 1,
+            "directions": "Data yet to be collected",
+            "imageLinks": []
+          }
+        },
         "locationImageUrl": ""
       },
       "geometry": {
@@ -4374,7 +5806,58 @@ var fullMap = {
     "rooms": [
       "Centre for English Language Communication"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "Techno Edge": {
+        "time": 1.3690476190476193,
+        "distance": 115,
+        "stairsDirection": 2,
+        "stairsWeight": 230,
+        "shelterWeight": 115,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "McDonald's": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 2,
+        "stairsWeight": 240,
+        "shelterWeight": 120,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE2": {
+        "time": 0.8333333333333334,
+        "distance": 70,
+        "stairsDirection": 1,
+        "stairsWeight": 70,
+        "shelterWeight": 70,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE1": {
+        "time": 1.3095238095238095,
+        "distance": 110,
+        "stairsDirection": 1,
+        "stairsWeight": 110,
+        "shelterWeight": 110,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE3": {
+        "time": 1.7857142857142858,
+        "distance": 150,
+        "stairsDirection": 1,
+        "stairsWeight": 150,
+        "shelterWeight": 150,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "CFA Studios": {
     "locationName": "CFA Studios",
@@ -4386,7 +5869,18 @@ var fullMap = {
     ],
     "faculty": "",
     "rooms": [],
-    "edgeList": {}
+    "edgeList": {
+      "Raffles Hall": {
+        "time": 1.1904761904761905,
+        "distance": 100,
+        "stairsDirection": 1,
+        "stairsWeight": 100,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "COM1": {
     "locationName": "COM1",
@@ -4586,7 +6080,48 @@ var fullMap = {
       "Centre for Instructional Technology (Computer Centre)",
       "Computer Centre"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "Techno Edge": {
+        "time": 1.3690476190476193,
+        "distance": 115,
+        "stairsDirection": 0,
+        "stairsWeight": 115,
+        "shelterWeight": 115,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E5": {
+        "time": 0.7142857142857143,
+        "distance": 60,
+        "stairsDirection": 1,
+        "stairsWeight": 60,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 4": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 1,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 3": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 1,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Create": {
     "locationName": "Create",
@@ -4648,7 +6183,68 @@ var fullMap = {
       "Engineering IT Unit",
       "Temasek Defence Systems Institute"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "E2": {
+        "time": 1.0714285714285716,
+        "distance": 90,
+        "stairsDirection": 1,
+        "stairsWeight": 90,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E1A": {
+        "time": 0.9523809523809524,
+        "distance": 80,
+        "stairsDirection": 1,
+        "stairsWeight": 80,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "EW1": {
+        "time": 0.9523809523809524,
+        "distance": 80,
+        "stairsDirection": 1,
+        "stairsWeight": 80,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 5": {
+        "time": 0.5952380952380952,
+        "distance": 50,
+        "stairsDirection": 1,
+        "stairsWeight": 50,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "McDonald's": {
+        "time": 0.9523809523809524,
+        "distance": 80,
+        "stairsDirection": 1,
+        "stairsWeight": 80,
+        "shelterWeight": 80,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E2A": {
+        "time": 0.7142857142857143,
+        "distance": 60,
+        "stairsDirection": 1,
+        "stairsWeight": 60,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "E1A": {
     "locationName": "E1A",
@@ -4668,7 +6264,48 @@ var fullMap = {
       "E1A",
       "Engineering Design and Innovation Centre"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "EA": {
+        "time": 1.5476190476190477,
+        "distance": 130,
+        "stairsDirection": 1,
+        "stairsWeight": 130,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E2": {
+        "time": 1.1904761904761905,
+        "distance": 100,
+        "stairsDirection": 1,
+        "stairsWeight": 100,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E1": {
+        "time": 0.9523809523809524,
+        "distance": 80,
+        "stairsDirection": 1,
+        "stairsWeight": 80,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE3": {
+        "time": 1.7857142857142858,
+        "distance": 150,
+        "stairsDirection": 0,
+        "stairsWeight": 150,
+        "shelterWeight": 150,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "E2": {
     "locationName": "E2",
@@ -4683,7 +6320,78 @@ var fullMap = {
       "E2",
       "A.R.T. FoodHouse"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "EA": {
+        "time": 1.3095238095238095,
+        "distance": 110,
+        "stairsDirection": 1,
+        "stairsWeight": 110,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 7": {
+        "time": 0.8928571428571429,
+        "distance": 75,
+        "stairsDirection": 0,
+        "stairsWeight": 75,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 1": {
+        "time": 0.2380952380952381,
+        "distance": 20,
+        "stairsDirection": 1,
+        "stairsWeight": 20,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 2": {
+        "time": 0.2380952380952381,
+        "distance": 20,
+        "stairsDirection": 2,
+        "stairsWeight": 40,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E2A": {
+        "time": 0.7142857142857143,
+        "distance": 60,
+        "stairsDirection": 1,
+        "stairsWeight": 60,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E1A": {
+        "time": 1.1904761904761905,
+        "distance": 100,
+        "stairsDirection": 1,
+        "stairsWeight": 100,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E1": {
+        "time": 1.0714285714285716,
+        "distance": 90,
+        "stairsDirection": 1,
+        "stairsWeight": 90,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "E2A": {
     "locationName": "E2A",
@@ -4697,7 +6405,48 @@ var fullMap = {
     "rooms": [
       "Des The Place"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "E2": {
+        "time": 0.7142857142857143,
+        "distance": 60,
+        "stairsDirection": 1,
+        "stairsWeight": 60,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E1": {
+        "time": 0.7142857142857143,
+        "distance": 60,
+        "stairsDirection": 1,
+        "stairsWeight": 60,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E4": {
+        "time": 1.0714285714285716,
+        "distance": 90,
+        "stairsDirection": 0,
+        "stairsWeight": 90,
+        "shelterWeight": 90,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E3": {
+        "time": 0.9523809523809524,
+        "distance": 80,
+        "stairsDirection": 0,
+        "stairsWeight": 80,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "E3": {
     "locationName": "E3",
@@ -4716,7 +6465,68 @@ var fullMap = {
       "NUS Nanoscience and Nanotechnology Institute (E3)",
       "Technopreneurship Incubation Programme"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "Lecture Theatre 1": {
+        "time": 0.9523809523809524,
+        "distance": 80,
+        "stairsDirection": 1,
+        "stairsWeight": 80,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 2": {
+        "time": 0.7142857142857143,
+        "distance": 60,
+        "stairsDirection": 2,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E3A": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 0,
+        "stairsWeight": 120,
+        "shelterWeight": 120,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "T-Lab": {
+        "time": 1.1904761904761905,
+        "distance": 100,
+        "stairsDirection": 1,
+        "stairsWeight": 100,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E4": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 1,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E2A": {
+        "time": 0.9523809523809524,
+        "distance": 80,
+        "stairsDirection": 2,
+        "stairsWeight": 160,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "E3A": {
     "locationName": "E3A",
@@ -4737,7 +6547,58 @@ var fullMap = {
       "Security Post (E3A)",
       "Solar Energy Research Institute of Singapore (SERIS)"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "EA": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 1,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 7": {
+        "time": 0.5952380952380952,
+        "distance": 50,
+        "stairsDirection": 2,
+        "stairsWeight": 100,
+        "shelterWeight": 50,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E3": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 2,
+        "stairsWeight": 240,
+        "shelterWeight": 120,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "T-Lab": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 0,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Raffles Hall": {
+        "time": 2.619047619047619,
+        "distance": 220,
+        "stairsDirection": 0,
+        "stairsWeight": 220,
+        "shelterWeight": 220,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "E4": {
     "locationName": "E4",
@@ -4757,7 +6618,88 @@ var fullMap = {
       "AXS (E4)",
       "Dilys Creation (Engineering)"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "Lecture Theatre 2": {
+        "time": 1.1904761904761905,
+        "distance": 100,
+        "stairsDirection": 2,
+        "stairsWeight": 200,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 7": {
+        "time": 1.7857142857142858,
+        "distance": 150,
+        "stairsDirection": 0,
+        "stairsWeight": 150,
+        "shelterWeight": 150,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 5": {
+        "time": 0.9523809523809524,
+        "distance": 80,
+        "stairsDirection": 0,
+        "stairsWeight": 80,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E3": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 1,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E2A": {
+        "time": 1.0714285714285716,
+        "distance": 90,
+        "stairsDirection": 2,
+        "stairsWeight": 180,
+        "shelterWeight": 90,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 6": {
+        "time": 0.35714285714285715,
+        "distance": 30,
+        "stairsDirection": 1,
+        "stairsWeight": 30,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E5": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 1,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E4A": {
+        "time": 1.3095238095238095,
+        "distance": 110,
+        "stairsDirection": 1,
+        "stairsWeight": 110,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "E4A": {
     "locationName": "E4A",
@@ -4771,7 +6713,38 @@ var fullMap = {
     "rooms": [
       "E4A"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "E4": {
+        "time": 1.3095238095238095,
+        "distance": 110,
+        "stairsDirection": 1,
+        "stairsWeight": 110,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "EW2": {
+        "time": 0.7142857142857143,
+        "distance": 60,
+        "stairsDirection": 1,
+        "stairsWeight": 60,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E6": {
+        "time": 1.1904761904761905,
+        "distance": 100,
+        "stairsDirection": 1,
+        "stairsWeight": 100,
+        "shelterWeight": 100,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "E5": {
     "locationName": "E5",
@@ -4788,7 +6761,58 @@ var fullMap = {
       "E5",
       "Security Post (Engineering Block)"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "Techno Edge": {
+        "time": 1.5476190476190477,
+        "distance": 130,
+        "stairsDirection": 0,
+        "stairsWeight": 130,
+        "shelterWeight": 130,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E4": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 1,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Computer Centre": {
+        "time": 0.7142857142857143,
+        "distance": 60,
+        "stairsDirection": 1,
+        "stairsWeight": 60,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 4": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 1,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 3": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 1,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "E6": {
     "locationName": "E6",
@@ -4802,7 +6826,48 @@ var fullMap = {
     "rooms": [
       "Data Storage Institute"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "T-Lab": {
+        "time": 1.3095238095238095,
+        "distance": 110,
+        "stairsDirection": 1,
+        "stairsWeight": 110,
+        "shelterWeight": 110,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "EW2": {
+        "time": 0.5952380952380952,
+        "distance": 50,
+        "stairsDirection": 1,
+        "stairsWeight": 50,
+        "shelterWeight": 50,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E4A": {
+        "time": 1.1904761904761905,
+        "distance": 100,
+        "stairsDirection": 1,
+        "stairsWeight": 100,
+        "shelterWeight": 100,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Raffles Hall": {
+        "time": 1.3095238095238095,
+        "distance": 110,
+        "stairsDirection": 0,
+        "stairsWeight": 110,
+        "shelterWeight": 110,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "EA": {
     "locationName": "EA",
@@ -4830,7 +6895,78 @@ var fullMap = {
       "Professional Activities Centre (Faculty of Engineering)",
       "Centre for Healthcare Innovation and Medical Engineering"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "Engineering Auditorium": {
+        "time": 0.5357142857142858,
+        "distance": 45,
+        "stairsDirection": 1,
+        "stairsWeight": 45,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 7A": {
+        "time": 0.5357142857142858,
+        "distance": 45,
+        "stairsDirection": 1,
+        "stairsWeight": 45,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 7": {
+        "time": 0.8333333333333334,
+        "distance": 70,
+        "stairsDirection": 1,
+        "stairsWeight": 70,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E3A": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 1,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E1A": {
+        "time": 1.5476190476190477,
+        "distance": 130,
+        "stairsDirection": 1,
+        "stairsWeight": 130,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E2": {
+        "time": 1.3095238095238095,
+        "distance": 110,
+        "stairsDirection": 1,
+        "stairsWeight": 110,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE3": {
+        "time": 2.9761904761904763,
+        "distance": 250,
+        "stairsDirection": 0,
+        "stairsWeight": 250,
+        "shelterWeight": 250,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "EW1": {
     "locationName": "EW1",
@@ -4844,7 +6980,38 @@ var fullMap = {
     "rooms": [
       "EW1"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "E1": {
+        "time": 0.9523809523809524,
+        "distance": 80,
+        "stairsDirection": 1,
+        "stairsWeight": 80,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "McDonald's": {
+        "time": 0.9523809523809524,
+        "distance": 80,
+        "stairsDirection": 1,
+        "stairsWeight": 80,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE3": {
+        "time": 0.5952380952380952,
+        "distance": 50,
+        "stairsDirection": 0,
+        "stairsWeight": 50,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "EW2": {
     "locationName": "EW2",
@@ -4859,7 +7026,48 @@ var fullMap = {
       "EW2",
       "Information Storage Materials Laboratory"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "E4A": {
+        "time": 0.7142857142857143,
+        "distance": 60,
+        "stairsDirection": 1,
+        "stairsWeight": 60,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "T-Lab": {
+        "time": 1.3095238095238095,
+        "distance": 110,
+        "stairsDirection": 1,
+        "stairsWeight": 110,
+        "shelterWeight": 110,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E6": {
+        "time": 0.5952380952380952,
+        "distance": 50,
+        "stairsDirection": 1,
+        "stairsWeight": 50,
+        "shelterWeight": 50,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Raffles Hall": {
+        "time": 1.5476190476190477,
+        "distance": 130,
+        "stairsDirection": 0,
+        "stairsWeight": 130,
+        "shelterWeight": 130,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Education Resource Centre": {
     "locationName": "Education Resource Centre",
@@ -4900,7 +7108,18 @@ var fullMap = {
     ],
     "faculty": "Engineering",
     "rooms": [],
-    "edgeList": {}
+    "edgeList": {
+      "EA": {
+        "time": 0.5357142857142858,
+        "distance": 45,
+        "stairsDirection": 1,
+        "stairsWeight": 45,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Eusoff Hall": {
     "locationName": "Eusoff Hall",
@@ -5202,7 +7421,48 @@ var fullMap = {
     "rooms": [
       "Lecture Theatre 1"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "Lecture Theatre 7": {
+        "time": 0.8928571428571429,
+        "distance": 75,
+        "stairsDirection": 0,
+        "stairsWeight": 75,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E3": {
+        "time": 0.9523809523809524,
+        "distance": 80,
+        "stairsDirection": 1,
+        "stairsWeight": 80,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 2": {
+        "time": 0.4761904761904762,
+        "distance": 40,
+        "stairsDirection": 2,
+        "stairsWeight": 80,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E2": {
+        "time": 0.2380952380952381,
+        "distance": 20,
+        "stairsDirection": 1,
+        "stairsWeight": 20,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Lecture Theatre 2": {
     "locationName": "Lecture Theatre 2",
@@ -5216,7 +7476,48 @@ var fullMap = {
     "rooms": [
       "Lecture Theatre 2"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "Lecture Theatre 1": {
+        "time": 0.4761904761904762,
+        "distance": 40,
+        "stairsDirection": 0,
+        "stairsWeight": 40,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E2": {
+        "time": 0.2380952380952381,
+        "distance": 20,
+        "stairsDirection": 0,
+        "stairsWeight": 20,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E4": {
+        "time": 1.1904761904761905,
+        "distance": 100,
+        "stairsDirection": 0,
+        "stairsWeight": 100,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E3": {
+        "time": 0.7142857142857143,
+        "distance": 60,
+        "stairsDirection": 0,
+        "stairsWeight": 60,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Lecture Theatre 3": {
     "locationName": "Lecture Theatre 3",
@@ -5230,7 +7531,38 @@ var fullMap = {
     "rooms": [
       "Lecture Theatre 3"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "E5": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 1,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 4": {
+        "time": 0.35714285714285715,
+        "distance": 30,
+        "stairsDirection": 1,
+        "stairsWeight": 30,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Computer Centre": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 1,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Lecture Theatre 4": {
     "locationName": "Lecture Theatre 4",
@@ -5244,7 +7576,38 @@ var fullMap = {
     "rooms": [
       "Lecture Theatre 4"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "E5": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 1,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 3": {
+        "time": 0.35714285714285715,
+        "distance": 30,
+        "stairsDirection": 1,
+        "stairsWeight": 30,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Computer Centre": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 1,
+        "stairsWeight": 120,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Lecture Theatre 5": {
     "locationName": "Lecture Theatre 5",
@@ -5258,7 +7621,38 @@ var fullMap = {
     "rooms": [
       "Lecture Theatre 5"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "E1": {
+        "time": 0.5952380952380952,
+        "distance": 50,
+        "stairsDirection": 1,
+        "stairsWeight": 50,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Techno Edge": {
+        "time": 0.5952380952380952,
+        "distance": 50,
+        "stairsDirection": 0,
+        "stairsWeight": 50,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E4": {
+        "time": 0.9523809523809524,
+        "distance": 80,
+        "stairsDirection": 2,
+        "stairsWeight": 160,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Lecture Theatre 6": {
     "locationName": "Lecture Theatre 6",
@@ -5272,7 +7666,18 @@ var fullMap = {
     "rooms": [
       "Lecture Theatre 6"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "E4": {
+        "time": 0.35714285714285715,
+        "distance": 30,
+        "stairsDirection": 1,
+        "stairsWeight": 30,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Lecture Theatre 7": {
     "locationName": "Lecture Theatre 7",
@@ -5286,7 +7691,58 @@ var fullMap = {
     "rooms": [
       "Lecture Theatre 7"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "EA": {
+        "time": 0.8333333333333334,
+        "distance": 70,
+        "stairsDirection": 1,
+        "stairsWeight": 70,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E3A": {
+        "time": 0.5952380952380952,
+        "distance": 50,
+        "stairsDirection": 0,
+        "stairsWeight": 50,
+        "shelterWeight": 50,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 1": {
+        "time": 0.8928571428571429,
+        "distance": 75,
+        "stairsDirection": 2,
+        "stairsWeight": 150,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E2": {
+        "time": 0.8928571428571429,
+        "distance": 75,
+        "stairsDirection": 2,
+        "stairsWeight": 150,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E4": {
+        "time": 1.7857142857142858,
+        "distance": 150,
+        "stairsDirection": 2,
+        "stairsWeight": 300,
+        "shelterWeight": 150,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Lecture Theatre 7A": {
     "locationName": "Lecture Theatre 7A",
@@ -5300,7 +7756,18 @@ var fullMap = {
     "rooms": [
       "Lecture Theatre 7A"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "EA": {
+        "time": 0.5357142857142858,
+        "distance": 45,
+        "stairsDirection": 1,
+        "stairsWeight": 45,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Lecture Theatre 8": {
     "locationName": "Lecture Theatre 8",
@@ -5941,7 +8408,68 @@ var fullMap = {
     "rooms": [
       "McDonald's"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "EW1": {
+        "time": 0.9523809523809524,
+        "distance": 80,
+        "stairsDirection": 1,
+        "stairsWeight": 80,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Techno Edge": {
+        "time": 0.4761904761904762,
+        "distance": 40,
+        "stairsDirection": 1,
+        "stairsWeight": 40,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E1": {
+        "time": 0.9523809523809524,
+        "distance": 80,
+        "stairsDirection": 1,
+        "stairsWeight": 80,
+        "shelterWeight": 80,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE2": {
+        "time": 1.0119047619047619,
+        "distance": 85,
+        "stairsDirection": 0,
+        "stairsWeight": 85,
+        "shelterWeight": 85,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE1": {
+        "time": 1.3095238095238095,
+        "distance": 110,
+        "stairsDirection": 0,
+        "stairsWeight": 110,
+        "shelterWeight": 110,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "CELC": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 0,
+        "stairsWeight": 120,
+        "shelterWeight": 120,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Medical Library": {
     "locationName": "Medical Library",
@@ -6102,7 +8630,58 @@ var fullMap = {
       "Raffles Hall",
       "Kuok Foundation House"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "T-Lab": {
+        "time": 1.7857142857142858,
+        "distance": 150,
+        "stairsDirection": 2,
+        "stairsWeight": 300,
+        "shelterWeight": 150,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "EW2": {
+        "time": 1.5476190476190477,
+        "distance": 130,
+        "stairsDirection": 2,
+        "stairsWeight": 260,
+        "shelterWeight": 130,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E6": {
+        "time": 1.3095238095238095,
+        "distance": 110,
+        "stairsDirection": 2,
+        "stairsWeight": 220,
+        "shelterWeight": 110,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E3A": {
+        "time": 2.619047619047619,
+        "distance": 220,
+        "stairsDirection": 2,
+        "stairsWeight": 440,
+        "shelterWeight": 220,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "CFA Studios": {
+        "time": 1.1904761904761905,
+        "distance": 100,
+        "stairsDirection": 1,
+        "stairsWeight": 100,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Residential College 4": {
     "locationName": "Residential College 4",
@@ -6490,7 +9069,58 @@ var fullMap = {
       "SDE1",
       "Coop - SDE (Block SDE1)"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "Techno Edge": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 2,
+        "stairsWeight": 240,
+        "shelterWeight": 120,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE2": {
+        "time": 0.4166666666666667,
+        "distance": 35,
+        "stairsDirection": 1,
+        "stairsWeight": 35,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "McDonald's": {
+        "time": 1.3095238095238095,
+        "distance": 110,
+        "stairsDirection": 2,
+        "stairsWeight": 220,
+        "shelterWeight": 110,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE3": {
+        "time": 0.7142857142857143,
+        "distance": 60,
+        "stairsDirection": 1,
+        "stairsWeight": 60,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "CELC": {
+        "time": 1.3095238095238095,
+        "distance": 110,
+        "stairsDirection": 1,
+        "stairsWeight": 110,
+        "shelterWeight": 110,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "SDE2": {
     "locationName": "SDE2",
@@ -6506,7 +9136,58 @@ var fullMap = {
       "Design Incubation Centre",
       "SDE2"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "Techno Edge": {
+        "time": 1.0119047619047619,
+        "distance": 85,
+        "stairsDirection": 2,
+        "stairsWeight": 170,
+        "shelterWeight": 85,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE1": {
+        "time": 0.4166666666666667,
+        "distance": 35,
+        "stairsDirection": 1,
+        "stairsWeight": 35,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE3": {
+        "time": 0.8928571428571429,
+        "distance": 75,
+        "stairsDirection": 1,
+        "stairsWeight": 75,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "McDonald's": {
+        "time": 1.0119047619047619,
+        "distance": 85,
+        "stairsDirection": 2,
+        "stairsWeight": 170,
+        "shelterWeight": 85,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "CELC": {
+        "time": 0.8333333333333334,
+        "distance": 70,
+        "stairsDirection": 1,
+        "stairsWeight": 70,
+        "shelterWeight": 70,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "SDE3": {
     "locationName": "SDE3",
@@ -6521,7 +9202,68 @@ var fullMap = {
       "Architectural Studios",
       "SDE3"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "E1A": {
+        "time": 1.7857142857142858,
+        "distance": 150,
+        "stairsDirection": 2,
+        "stairsWeight": 300,
+        "shelterWeight": 150,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "EA": {
+        "time": 2.9761904761904763,
+        "distance": 250,
+        "stairsDirection": 2,
+        "stairsWeight": 500,
+        "shelterWeight": 250,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "EW1": {
+        "time": 0.5952380952380952,
+        "distance": 50,
+        "stairsDirection": 2,
+        "stairsWeight": 100,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE2": {
+        "time": 0.8928571428571429,
+        "distance": 75,
+        "stairsDirection": 1,
+        "stairsWeight": 75,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE1": {
+        "time": 0.7142857142857143,
+        "distance": 60,
+        "stairsDirection": 1,
+        "stairsWeight": 60,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "CELC": {
+        "time": 1.7857142857142858,
+        "distance": 150,
+        "stairsDirection": 1,
+        "stairsWeight": 150,
+        "shelterWeight": 150,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "SDE4": {
     "locationName": "SDE4",
@@ -6690,7 +9432,58 @@ var fullMap = {
       "NUS Environmental Research Institute (NERI)",
       "Temasek Laboratories (TL@NUS)"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "E3": {
+        "time": 1.1904761904761905,
+        "distance": 100,
+        "stairsDirection": 1,
+        "stairsWeight": 100,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E3A": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 2,
+        "stairsWeight": 240,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "EW2": {
+        "time": 1.3095238095238095,
+        "distance": 110,
+        "stairsDirection": 1,
+        "stairsWeight": 110,
+        "shelterWeight": 110,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E6": {
+        "time": 1.3095238095238095,
+        "distance": 110,
+        "stairsDirection": 1,
+        "stairsWeight": 110,
+        "shelterWeight": 110,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Raffles Hall": {
+        "time": 1.7857142857142858,
+        "distance": 150,
+        "stairsDirection": 0,
+        "stairsWeight": 150,
+        "shelterWeight": 150,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Techno Edge": {
     "locationName": "Techno Edge",
@@ -6705,7 +9498,78 @@ var fullMap = {
       "Techno Edge Canteen",
       "DBS / POSBank ATMs (TechnoEdge Canteen)"
     ],
-    "edgeList": {}
+    "edgeList": {
+      "McDonald's": {
+        "time": 0.4761904761904762,
+        "distance": 40,
+        "stairsDirection": 1,
+        "stairsWeight": 40,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Lecture Theatre 5": {
+        "time": 0.5952380952380952,
+        "distance": 50,
+        "stairsDirection": 2,
+        "stairsWeight": 100,
+        "shelterWeight": 0,
+        "shelterMultiplier": 0,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "E5": {
+        "time": 1.5476190476190477,
+        "distance": 130,
+        "stairsDirection": 2,
+        "stairsWeight": 260,
+        "shelterWeight": 130,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "Computer Centre": {
+        "time": 1.3690476190476193,
+        "distance": 115,
+        "stairsDirection": 2,
+        "stairsWeight": 230,
+        "shelterWeight": 115,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE2": {
+        "time": 1.0119047619047619,
+        "distance": 85,
+        "stairsDirection": 0,
+        "stairsWeight": 85,
+        "shelterWeight": 85,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "CELC": {
+        "time": 1.3690476190476193,
+        "distance": 115,
+        "stairsDirection": 0,
+        "stairsWeight": 115,
+        "shelterWeight": 115,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      },
+      "SDE1": {
+        "time": 1.4285714285714286,
+        "distance": 120,
+        "stairsDirection": 0,
+        "stairsWeight": 120,
+        "shelterWeight": 120,
+        "shelterMultiplier": 1,
+        "directions": "Data yet to be collected",
+        "imageLinks": []
+      }
+    }
   },
   "Temasek Hall": {
     "locationName": "Temasek Hall",
@@ -7081,14 +9945,14 @@ function areVertexesLinked(name1, name2) {
 
   if (fullMap[name1] && fullMap[name1].edgeList[name2]) {
     one = true;
-  }else if (!fullMap[name1]){
-      console.log(name1 + " does not exist");
+  } else if (!fullMap[name1]) {
+    console.log(name1 + " does not exist");
   }
 
   if (fullMap[name2] && fullMap[name2].edgeList[name1]) {
     two = true;
-  }else if (!fullMap[name2]){
-      console.log(name2 + " does not exist");
+  } else if (!fullMap[name2]) {
+    console.log(name2 + " does not exist");
   }
 
   console.log(name1 + " to " + name2 + " exists " + one);
@@ -7128,7 +9992,7 @@ function addEdges() {
       console.log(name1 + " to " + name2 + " " + JSON.stringify(fullMap[name1].edgeList[name2]));
     } else {
       console.log(name1 + " does not exist");
-      break;
+      return;
     }
 
     //add reverse direction edge
@@ -7151,7 +10015,7 @@ function addEdges() {
       console.log(name2 + " to " + name1 + " " + JSON.stringify(fullMap[name2].edgeList[name1]));
     } else {
       console.log(name2 + " does not exist");
-      break;
+      return;
     }
     console.log(name1 + " <-> " + name2);
     console.log("2 edges added")
