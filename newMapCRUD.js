@@ -1,7 +1,6 @@
 //features.geojson file
 var geojson = {
-  "features": [
-    {
+  "features": [{
       "type": "Feature",
       "properties": {
         "locationName": "Temasek Hall",
@@ -7015,16 +7014,32 @@ var fullMap = {
   }
 }
 
-//insert list of rooms in dijkstra format
-var roomList = {}
+//updates feature properties of geojson from the dijkstra version
+function updateGeoJson() {
+  for (var vertex in fullMap) { //O(V^2)
+    for (var i = 0; i < geojson.features.length; i++) {
+      if (fullMap[vertex].locationName == geojson.features[i].properties.locationName) {
+        //locationName correct by default
+        geojson.features[i].properties.locationType = fullMap[vertex].locationType;
+        geojson.features[i].properties.locationImageUrl = fullMap[vertex].locationImageUrl;
+        //coordinates correct by default
+        geojson.features[i].properties.faculty = fullMap[vertex].faculty;
+        geojson.features[i].properties.rooms = fullMap[vertex].rooms;
+        geojson.features[i].properties.edgeList = fullMap[vertex].edgeList;
+        break;
+      }
+    }
+  }
+  console.log(JSON.stringify(geojson.features));
+}
 
-//convert from original state to usable form for nushortcuts
-function convertToDijks() {
+//convert from geojson to dijkstra usable form for nushortcuts
+function updateDijks() {
   var array = geojson.features;
-  var dijk = new Object();
+  fullMap = new Object();
   for (var i = 0; i < array.length; i++) {
     var name = array[i].properties.locationName;
-    dijk[name] = {
+    fullMap[name] = {
       "locationName": array[i].properties.locationName,
       "locationType": array[i].properties.locationType,
       "locationImageUrl": array[i].properties.locationImageUrl,
@@ -7034,46 +7049,19 @@ function convertToDijks() {
       "edgeList": array[i].properties.edgeList
     }
   }
-  console.log(JSON.stringify(dijk));
-}
-
-//updates edgeLists of geojson
-function updateGeoJson() {
-  //JSON
-  for (var vertex in fullMap) { //O(N^2)
-    for (var i = 0; i < geojson.features.length; i++) {
-      if (fullMap[vertex].locationName == geojson.features[i].properties.locationName) {
-        //replaces
-        geojson.features[i].properties.rooms = fullMap[vertex].rooms;
-        break;
-      }
-    }
-  }
-  console.log(JSON.stringify(geojson.features));
-}
-
-function updateMap() {
-  for (fullmapvert in fullMap) {
-    for (roomlistvert in roomList) {
-      if (fullmapvert == roomlistvert) {
-        while (roomList[roomlistvert].rooms.length) {
-          fullMap[fullmapvert].rooms.push(roomList[roomlistvert].rooms.shift());
-        }
-        delete roomList[roomlistvert];
-      }
-    }
-  }
-  console.log(JSON.stringify(fullMap));
-}
-//  console.log(JSON.stringify(roomList));
-function deleteRooms() {
-  for (fullmapvert in fullMap) {
-    fullMap[fullmapvert].rooms = [];
-  }
   console.log(JSON.stringify(fullMap));
 }
 
-function printVertNames() {
+function printGeoJson() {
+  console.log(JSON.stringify(geojson));
+}
+
+function printDijks() {
+  console.log(JSON.stringify(fullMap));
+}
+
+//prints from geojson
+function printAllVertNames() {
   var arr = [];
   for (var i = 0; i < geojson.features.length; i++) {
     arr.push(geojson.features[i].properties.locationName);
@@ -7081,12 +7069,10 @@ function printVertNames() {
   console.log(JSON.stringify(arr));
 }
 
-//do in dijkstra//////////////////////////////////////////////////////////////////
-//then  put back in geojson
-/////////////////////////////
+////////////////////////////////
 //Paired edgeList CRUD methods//
-/////////////////////////////
-
+////////////////////////////////
+//done in dijks then update to geojson
 
 //returns true only if both vertexes are linked both ways
 function areVertexesLinked(name1, name2) {
