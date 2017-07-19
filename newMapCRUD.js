@@ -9990,9 +9990,6 @@ function addEdges() {
         'imageLinks': []
       };
       console.log(name1 + " to " + name2 + " " + JSON.stringify(fullMap[name1].edgeList[name2]));
-    } else {
-      console.log(name1 + " does not exist");
-      return;
     }
 
     //add reverse direction edge
@@ -10013,13 +10010,13 @@ function addEdges() {
         'imageLinks': []
       };
       console.log(name2 + " to " + name1 + " " + JSON.stringify(fullMap[name2].edgeList[name1]));
-    } else {
-      console.log(name2 + " does not exist");
-      return;
     }
+
     console.log(name1 + " <-> " + name2);
     console.log("2 edges added")
   } else {
+     if ( !fullMap[name1] )      console.log(name1 + " does not exist");
+     if ( !fullMap[name2] )      console.log(name2 + " does not exist");
     console.log("pair of edges" + name1 + " <-> " + name2 + "already exists")
   }
 
